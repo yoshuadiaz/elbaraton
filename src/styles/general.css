@@ -1,0 +1,28 @@
+h1,
+h2 {
+  font-family: 'Milonga', cursive;
+  color: #ff707a !important;
+}
+
+.mainColor {
+  color: #ff707a
+}
+
+.navbar {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+@media screen and (min-width: 1088px) {
+  .navbar-burger {
+    display: block;
+  }
+}
+
+.card-button {
+  cursor: pointer;
+}
+
+.cards {
+  padding-left: 1em;
+  padding-right: 1em;
+}
